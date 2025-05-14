@@ -23,7 +23,7 @@ export default function Header({ searchText, changeSearch }) {
       <Bubbles />
       <div className='relative z-10'>
         <div className="text-3xl">
-        <Image src={"logo.svg"} alt="LinuxServer.io" className="h-10" />
+          <Image src={"https://avatars.githubusercontent.com/u/126880?v=4"} alt="kasmmgr.github.io" className="h-10" />
         </div>
         <div className="text-sm uppercase w-full flex justify-between">
           <span className='opacity-70'>W</span>
